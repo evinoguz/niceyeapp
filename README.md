@@ -1,12 +1,12 @@
  ### Niceye App
 <div>
-<img src="./src/assets/screenapp/Screen1.JPG" width="800" height="300"/>
+<img src="./src/assets/screenapp/Screen1.JPG" width="500" height="300"/>
 
-<img src="./src/assets/screenapp/Screen2.JPG" width="800" height="300"/>
+<img src="./src/assets/screenapp/Screen2.JPG" width="500" height="300"/>
 
-<img src="./src/assets/screenapp/Screen3.JPG" width="800" height="300"/>
+<img src="./src/assets/screenapp/Screen3.JPG" width="500" height="300"/>
 
-<img src="./src/assets/screenapp/Screen4.JPG" width="800" height="300"/>
+<img src="./src/assets/screenapp/Screen4.JPG" width="500" height="300"/>
 
 </div>
 
